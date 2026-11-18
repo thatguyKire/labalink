@@ -217,5 +217,5 @@ attendant with `BOOTSTRAP_ATTENDANT_EMAIL` / `BOOTSTRAP_ATTENDANT_PASSWORD`.
 - Initial project setup: backend, web and mobile folders.
 - User registration and login with JWT.
 
-[Unreleased]: https://github.com/thatguyKire/IT342-Bien-Labalink/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/thatguyKire/IT342-Bien-Labalink/releases/tag/v1.0.0
+[Unreleased]: https://github.com/thatguyKire/labalink/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/thatguyKire/labalink/releases/tag/v1.0.0

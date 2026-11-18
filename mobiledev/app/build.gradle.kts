@@ -12,7 +12,7 @@ plugins {
 //   labalink.googleWebClientId=xxxx.apps.googleusercontent.com
 //   labalink.termsUrl=https://.../terms   labalink.privacyUrl=https://.../privacy
 val legalDocsUrl =
-    "https://github.com/thatguyKire/IT342-Bien-Labalink/blob/main/docs/legal"
+    "https://github.com/thatguyKire/labalink/blob/main/docs/legal"
 
 val localProps = Properties().apply {
     val file = rootProject.file("local.properties")

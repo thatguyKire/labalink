@@ -6,7 +6,7 @@ export const API_BASE_URL = (
 
 // Public legal pages. Defaults to the copies in the GitHub repo.
 const LEGAL_DOCS_URL =
-  'https://github.com/thatguyKire/IT342-Bien-Labalink/blob/main/docs/legal';
+  'https://github.com/thatguyKire/labalink/blob/main/docs/legal';
 export const TERMS_URL =
   import.meta.env.VITE_TERMS_URL ?? `${LEGAL_DOCS_URL}/Terms-of-Service.md`;
 export const PRIVACY_URL =

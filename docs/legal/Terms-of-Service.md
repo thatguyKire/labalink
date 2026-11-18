@@ -79,7 +79,7 @@ Google. Their own terms and privacy policies apply when you use them.
 ## 7. Ownership
 
 The LabaLink source code is published in its
-[GitHub repository](https://github.com/thatguyKire/IT342-Bien-Labalink).
+[GitHub repository](https://github.com/thatguyKire/labalink).
 The project name, logo and content belong to the project developer.
 
 ## 8. Changes
@@ -95,5 +95,5 @@ These Terms are governed by the laws of the Republic of the Philippines.
 ## 10. Contact
 
 Questions about these Terms: open an issue in the
-[GitHub repository](https://github.com/thatguyKire/IT342-Bien-Labalink/issues).
+[GitHub repository](https://github.com/thatguyKire/labalink/issues).
 Please do not include passwords or other personal data in an issue.

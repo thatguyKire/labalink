@@ -106,7 +106,7 @@ To ask for a copy of your data, a correction, or deletion of your
 account:
 
 1. Open an issue titled **"Privacy request"** in the
-   [GitHub repository](https://github.com/thatguyKire/IT342-Bien-Labalink/issues).
+   [GitHub repository](https://github.com/thatguyKire/labalink/issues).
    **Do not put your email address or other personal data in the
    issue.**
 2. The developer will reply to arrange the request privately and confirm
